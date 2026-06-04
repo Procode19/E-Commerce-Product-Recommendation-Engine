@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Product Recommendation Engine
 
 ## Project Overview
@@ -80,3 +81,7 @@ The engine writes report files into `outputs/` when option `4` is selected.
 - Repo name: `e-commerce-product-recommender`
 - Description: `Python-based e-commerce recommendation engine demonstrating DSA and ranking logic.`
 - Tags: `recommendation-system`, `e-commerce`, `python`, `datastructures`, `backend`, `DSA`
+=======
+# E-Commerce-Product-Recommendation-Engine
+AI-powered E-Commerce Product Recommendation Engine using Python, Streamlit, TF-IDF, and Content-Based Filtering.
+>>>>>>> 7a63858bfb417c74d98ab0ab790ad263b8fc059d
