@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-Commerce Product Recommendation Engine
 
 ## Project Overview
