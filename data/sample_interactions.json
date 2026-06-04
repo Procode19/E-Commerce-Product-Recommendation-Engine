@@ -1,0 +1,266 @@
+[
+  {
+    "user_id": "U001",
+    "event": "search",
+    "search_text": "fitness watch",
+    "timestamp": "2026-05-01T19:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P010",
+    "event": "view",
+    "timestamp": "2026-05-01T20:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P002",
+    "event": "add_cart",
+    "timestamp": "2026-05-02T08:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P006",
+    "event": "add_cart",
+    "timestamp": "2026-05-02T18:00:00"
+  },
+  {
+    "user_id": "U005",
+    "item_id": "P013",
+    "event": "view",
+    "timestamp": "2026-05-02T20:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P010",
+    "event": "add_cart",
+    "timestamp": "2026-05-03T11:00:00"
+  },
+  {
+    "user_id": "U005",
+    "item_id": "P007",
+    "event": "add_cart",
+    "timestamp": "2026-05-03T11:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P015",
+    "event": "add_cart",
+    "timestamp": "2026-05-03T17:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P005",
+    "event": "add_cart",
+    "timestamp": "2026-05-04T09:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P004",
+    "event": "view",
+    "timestamp": "2026-05-04T18:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P012",
+    "event": "view",
+    "timestamp": "2026-05-04T22:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P007",
+    "event": "add_cart",
+    "timestamp": "2026-05-05T11:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P005",
+    "event": "view",
+    "timestamp": "2026-05-05T19:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P008",
+    "event": "view",
+    "timestamp": "2026-05-06T13:00:00"
+  },
+  {
+    "user_id": "U005",
+    "item_id": "P012",
+    "event": "purchase",
+    "timestamp": "2026-05-07T18:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P007",
+    "event": "add_cart",
+    "timestamp": "2026-05-08T16:00:00"
+  },
+  {
+    "user_id": "U005",
+    "event": "search",
+    "search_text": "sunglasses",
+    "timestamp": "2026-05-08T18:00:00"
+  },
+  {
+    "user_id": "U005",
+    "item_id": "P014",
+    "event": "view",
+    "timestamp": "2026-05-08T21:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P003",
+    "event": "purchase",
+    "timestamp": "2026-05-09T22:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P004",
+    "event": "purchase",
+    "timestamp": "2026-05-10T09:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P011",
+    "event": "view",
+    "timestamp": "2026-05-12T11:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P002",
+    "event": "purchase",
+    "timestamp": "2026-05-12T17:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P007",
+    "event": "purchase",
+    "timestamp": "2026-05-12T21:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P008",
+    "event": "view",
+    "timestamp": "2026-05-13T09:00:00"
+  },
+  {
+    "user_id": "U004",
+    "event": "search",
+    "search_text": "fitness watch",
+    "timestamp": "2026-05-13T12:00:00"
+  },
+  {
+    "user_id": "U002",
+    "event": "search",
+    "search_text": "sunglasses",
+    "timestamp": "2026-05-14T11:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P004",
+    "event": "purchase",
+    "timestamp": "2026-05-15T14:00:00"
+  },
+  {
+    "user_id": "U005",
+    "item_id": "P006",
+    "event": "purchase",
+    "timestamp": "2026-05-16T14:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P010",
+    "event": "purchase",
+    "timestamp": "2026-05-18T11:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P009",
+    "event": "view",
+    "timestamp": "2026-05-18T12:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P014",
+    "event": "add_cart",
+    "timestamp": "2026-05-18T19:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P010",
+    "event": "add_cart",
+    "timestamp": "2026-05-19T11:00:00"
+  },
+  {
+    "user_id": "U005",
+    "item_id": "P005",
+    "event": "add_cart",
+    "timestamp": "2026-05-19T22:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P011",
+    "event": "add_cart",
+    "timestamp": "2026-05-21T10:00:00"
+  },
+  {
+    "user_id": "U004",
+    "item_id": "P006",
+    "event": "view",
+    "timestamp": "2026-05-22T12:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P014",
+    "event": "add_cart",
+    "timestamp": "2026-05-23T09:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P001",
+    "event": "purchase",
+    "timestamp": "2026-05-23T18:00:00"
+  },
+  {
+    "user_id": "U001",
+    "item_id": "P014",
+    "event": "view",
+    "timestamp": "2026-05-24T22:00:00"
+  },
+  {
+    "user_id": "U005",
+    "item_id": "P006",
+    "event": "view",
+    "timestamp": "2026-05-25T08:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P006",
+    "event": "add_cart",
+    "timestamp": "2026-05-25T13:00:00"
+  },
+  {
+    "user_id": "U003",
+    "event": "search",
+    "search_text": "denim jacket",
+    "timestamp": "2026-05-26T08:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P005",
+    "event": "view",
+    "timestamp": "2026-05-26T10:00:00"
+  },
+  {
+    "user_id": "U002",
+    "item_id": "P008",
+    "event": "view",
+    "timestamp": "2026-05-26T21:00:00"
+  },
+  {
+    "user_id": "U003",
+    "item_id": "P013",
+    "event": "purchase",
+    "timestamp": "2026-05-28T11:00:00"
+  }
+]

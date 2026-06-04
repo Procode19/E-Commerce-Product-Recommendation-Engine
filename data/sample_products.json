@@ -1,0 +1,137 @@
+[
+  {
+    "item_id": "P001",
+    "title": "Wireless Earbuds",
+    "category": "Electronics",
+    "brand": "SoundWave",
+    "price": 59.99,
+    "tags": "audio, bluetooth, earbuds",
+    "rating": 4.3
+  },
+  {
+    "item_id": "P002",
+    "title": "Smart Fitness Watch",
+    "category": "Electronics",
+    "brand": "TimeFit",
+    "price": 129.99,
+    "tags": "fitness, wearable, health",
+    "rating": 4.5
+  },
+  {
+    "item_id": "P003",
+    "title": "Running Shoes",
+    "category": "Footwear",
+    "brand": "SpeedRun",
+    "price": 79.99,
+    "tags": "running, sports, comfort",
+    "rating": 4.2
+  },
+  {
+    "item_id": "P004",
+    "title": "Casual Sneakers",
+    "category": "Footwear",
+    "brand": "UrbanStep",
+    "price": 64.99,
+    "tags": "casual, everyday, fashion",
+    "rating": 4.1
+  },
+  {
+    "item_id": "P005",
+    "title": "Denim Jacket",
+    "category": "Apparel",
+    "brand": "TrendLab",
+    "price": 89.99,
+    "tags": "jacket, denim, style",
+    "rating": 4.4
+  },
+  {
+    "item_id": "P006",
+    "title": "Yoga Mat",
+    "category": "Fitness",
+    "brand": "FlexFlow",
+    "price": 29.99,
+    "tags": "yoga, exercise, wellness",
+    "rating": 4.6
+  },
+  {
+    "item_id": "P007",
+    "title": "Backpack",
+    "category": "Accessories",
+    "brand": "PackMate",
+    "price": 49.99,
+    "tags": "travel, bag, school",
+    "rating": 4.3
+  },
+  {
+    "item_id": "P008",
+    "title": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "brand": "QuietTone",
+    "price": 149.99,
+    "tags": "music, noise cancelling, audio",
+    "rating": 4.7
+  },
+  {
+    "item_id": "P009",
+    "title": "Formal Shirt",
+    "category": "Apparel",
+    "brand": "SharpSuit",
+    "price": 39.99,
+    "tags": "shirt, formal, office",
+    "rating": 4.0
+  },
+  {
+    "item_id": "P010",
+    "title": "Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "BeatBox",
+    "price": 45.99,
+    "tags": "speaker, portable, music",
+    "rating": 4.2
+  },
+  {
+    "item_id": "P011",
+    "title": "Trail Running Socks",
+    "category": "Footwear",
+    "brand": "TrailPro",
+    "price": 12.99,
+    "tags": "socks, trail, comfort",
+    "rating": 4.0
+  },
+  {
+    "item_id": "P012",
+    "title": "Laptop Sleeve",
+    "category": "Accessories",
+    "brand": "TechGuard",
+    "price": 24.99,
+    "tags": "laptop, protection, sleeve",
+    "rating": 4.1
+  },
+  {
+    "item_id": "P013",
+    "title": "Sunglasses",
+    "category": "Accessories",
+    "brand": "SunWave",
+    "price": 34.99,
+    "tags": "sunglasses, uv protection, fashion",
+    "rating": 4.5
+  },
+  {
+    "item_id": "P014",
+    "title": "Smartphone Stand",
+    "category": "Electronics",
+    "brand": "HoldIt",
+    "price": 19.99,
+    "tags": "stand, desk, mobile",
+    "rating": 4.3
+  },
+  {
+    "item_id": "P015",
+    "title": "Gym Duffel Bag",
+    "category": "Fitness",
+    "brand": "FitCarry",
+    "price": 59.99,
+    "tags": "gym, bag, workout",
+    "rating": 4.4
+  }
+]
